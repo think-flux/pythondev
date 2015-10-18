@@ -1,3 +1,4 @@
+#!/usr/bin/python
 kids = ["Jaden", "Nathan", "Daniel", "Nolan", "Ethan"]
 for kid in kids:
 	if kid in ["Jaden", "Nathan"]:
